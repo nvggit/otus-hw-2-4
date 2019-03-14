@@ -1,2 +1,12 @@
 # otus-hw-2-4
-Homework for Otus lesson 4 part 2 by Voronin Nikita cubaman@mail.ru
+Homework for Otus lesson 4 part 2
+
+
+## Install
+
+Via Composer
+
+``` bash
+$ composer require nvoronin/hw4_2
+```
+Requires PHP >=5.6
