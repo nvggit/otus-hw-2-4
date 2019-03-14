@@ -13,4 +13,4 @@ Requires PHP >=5.6
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see License File for more information.
